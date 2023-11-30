@@ -30,3 +30,9 @@ After setting up the project locally, you can interact with it through the web i
 
 ## Contact
 For any inquiries or feedback, feel free to contact vaishnaviguna2003@gmail.com.
+
+
+<img width="938" alt="Screenshot 2023-11-30 141241" src="https://github.com/G-VAISHNAVI-2003/Dress_Doctor-Web-Development-project/assets/139878536/8f21c894-f8da-488b-9c90-d9d91bb0a92c">
+
+<img width="953" alt="Screenshot 2023-11-30 141405" src="https://github.com/G-VAISHNAVI-2003/Dress_Doctor-Web-Development-project/assets/139878536/36f2e222-8b30-44b3-96d9-56d05616873b">
+
