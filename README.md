@@ -7,8 +7,8 @@ Dress Doctor is a webpage designed to showcase the products and services of smal
 To set up and run this project locally, follow these steps:
 
 ### Dependencies
-- **XAMPP:** XAMPP is used to set up a local development environment with Apache, MySQL, PHP, and Perl.https://www.wikihow.com/Set-up-a-Personal-Web-Server-with-XAMPP
-- **PHP:** PHP is required for server-side scripting in this project.https://www.freecodecamp.org/news/how-to-get-started-with-php/
+- **XAMPP:** XAMPP is used to set up a local development environment with Apache, MySQL, PHP, and Perl.Follow the [XAMPP installation guide](https://www.wikihow.com/Set-up-a-Personal-Web-Server-with-XAMPP) to install XAMPP.
+- **PHP:** PHP is required for server-side scripting in this project.Follow the [PHP installation guide](https://www.freecodecamp.org/news/how-to-get-started-with-php/) to install PHP.
 
 ### Database Setup
 1. Install XAMPP to set up a local development environment.
